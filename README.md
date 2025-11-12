@@ -41,4 +41,4 @@ How visualization makes data easier to explain
 
 The importance of tracking HR metrics continuously
 
-Created by Dhanush Shankar
+Created by Dhanush Shankar(https://www.linkedin.com/in/dhanushshankar/)
